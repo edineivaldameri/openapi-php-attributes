@@ -1,5 +1,5 @@
 {
-    "name": "uderline/openapi-php-attributes",
+    "name": "edineivaldameri/openapi-php-attributes",
     "description": "Automatically render your OpenApi 3 file describing your PHP API using attributes",
     "keywords": [
         "api",
